@@ -34,5 +34,9 @@ Karena baik publisher maupun subscriber menggunakan URL yang sama, ini berarti *
 
 
 ![Rabbit Connection](https://media.discordapp.net/attachments/916932753897967666/1372901180325498991/image.png?ex=6828755c&is=682723dc&hm=bf05ed6736b56fa53628b47440e6b1333d548aa8507b8a6b0e5c21561e46aca7&=&format=webp&quality=lossless&width=1736&height=856)
+
 ![console](https://media.discordapp.net/attachments/916932753897967666/1372901675232395354/image.png?ex=682875d2&is=68272452&hm=44ec84eef63fb7b12bbb0a16ff164b644f418ac2ff6346a431147bddcad94f6c&=&format=webp&quality=lossless)
+
+![monitoring publisher](https://media.discordapp.net/attachments/916932753897967666/1372902713779683328/image.png?ex=682876ca&is=6827254a&hm=0a008d5e05e71dffba4abf4a1d59973e88dc37c2c2797af0e0dc3d59221a3dfd&=&format=webp&quality=lossless&width=1749&height=856)
+
 
