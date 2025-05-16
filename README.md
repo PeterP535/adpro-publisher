@@ -30,3 +30,4 @@ Penjelasan komponennya:
 Karena baik publisher maupun subscriber menggunakan URL yang sama, ini berarti **keduanya terhubung ke broker yang sama**, sehingga dapat saling bertukar pesan melalui event yang mereka tentukan (misalnya `user_created`).
 
 
+![RabbitMQ Dashboard](https://media.discordapp.net/attachments/916932753897967666/1372899998366306314/image.png?ex=68287442&is=682722c2&hm=ceb705200427223b2a21e573c9db)
