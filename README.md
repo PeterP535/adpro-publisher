@@ -31,3 +31,8 @@ Karena baik publisher maupun subscriber menggunakan URL yang sama, ini berarti *
 
 
 ![RabbitMQ Dashboard](https://media.discordapp.net/attachments/916932753897967666/1372899998366306314/image.png?ex=68287442&is=682722c2&hm=ceb705200427223b2a21e573c9db)
+
+
+![Rabbit Connection](https://media.discordapp.net/attachments/916932753897967666/1372901180325498991/image.png?ex=6828755c&is=682723dc&hm=bf05ed6736b56fa53628b47440e6b1333d548aa8507b8a6b0e5c21561e46aca7&=&format=webp&quality=lossless&width=1736&height=856)
+![console](https://media.discordapp.net/attachments/916932753897967666/1372901675232395354/image.png?ex=682875d2&is=68272452&hm=44ec84eef63fb7b12bbb0a16ff164b644f418ac2ff6346a431147bddcad94f6c&=&format=webp&quality=lossless)
+
